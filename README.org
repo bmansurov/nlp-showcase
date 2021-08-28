@@ -1,0 +1,10 @@
+* NLP Showcase
+  Small useful natural language processing (NLP) applications
+
+** 01-simple-grammar-checker
+   Given a list of similarly looking texts, find out which one is more
+   grammatically correct. For example, given the following two
+   sentences, the script correctly identifies that the first one is more
+   grammatically correct:
+   - "I have lived here for three weeks."
+   - "I have lived here since three weeks."
