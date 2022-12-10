@@ -6,3 +6,12 @@
 
   In this repository I showcase solutions to common NLP tasks.
 
+** Projects
+   Each sub directory contains documentation and code related to a
+   specific project.
+   1. [[./01-neural-sentence-picker][neural-sentence-picker]] - given two sentences that look alike,
+      output the one that is more likely to occur in text.
+
+** How to
+   1. Install the required packages: ~pip install -r requirements.txt~;
+   2. Visit a sub directory and run ~main.py~.

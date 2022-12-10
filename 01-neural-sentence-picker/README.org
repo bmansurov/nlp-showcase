@@ -1,0 +1,10 @@
+* 01-neural-sentence-picker
+  Given two sentences that look alike, output the one that is more
+  likely to occur in text.
+
+  For example, the first sentence below is more likely to occur in text
+  than the second one (thus it may be more grammatically correct):
+
+  1. It's a beautiful town.
+  2. Its a beautiful town.
+
