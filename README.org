@@ -1,6 +1,3 @@
-#+TITLE: NLP Showcase
-#+SUBTITLE: projects in Natural Language Processing
-
 * NLP Showcase
   projects in Natural Language Processing
 
@@ -15,3 +12,4 @@
 ** How to
    1. Install the required packages: ~pip install -r requirements.txt~;
    2. Visit a sub directory and run ~main.py~.
+
