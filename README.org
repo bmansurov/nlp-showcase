@@ -1,0 +1,8 @@
+#+TITLE: NLP Showcase
+#+SUBTITLE: projects in Natural Language Processing
+
+* NLP Showcase
+  projects in Natural Language Processing
+
+  In this repository I showcase solutions to common NLP tasks.
+
